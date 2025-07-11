@@ -29,9 +29,10 @@ int main(){
         cout<<"D Grade";
     }
     else if(avg>=50 and avg<60){
-        cout<<"Just Pass";
+        cout<<"Pass Class";
     }
     else{
         cout<<"Fail";
     }
     return 0;
+}
